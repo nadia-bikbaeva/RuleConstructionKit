@@ -1,0 +1,278 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u042D\u043B\u0438\u043D\u0430\\Downloads\\RuleConstructionKit\\RuleConstructionKit\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5835EED4-63A3-4FFE-B5A9-873EB6A93CEA}|RuleConstructionKit.csproj|c:\\users\\\u044D\u043B\u0438\u043D\u0430\\downloads\\ruleconstructionkit\\ruleconstructionkit\\controllers\\roadmapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5835EED4-63A3-4FFE-B5A9-873EB6A93CEA}|RuleConstructionKit.csproj|solutionrelative:controllers\\roadmapcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5835EED4-63A3-4FFE-B5A9-873EB6A93CEA}|RuleConstructionKit.csproj|c:\\users\\\u044D\u043B\u0438\u043D\u0430\\downloads\\ruleconstructionkit\\ruleconstructionkit\\patterns\\builders\\rulebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5835EED4-63A3-4FFE-B5A9-873EB6A93CEA}|RuleConstructionKit.csproj|solutionrelative:patterns\\builders\\rulebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5835EED4-63A3-4FFE-B5A9-873EB6A93CEA}|RuleConstructionKit.csproj|c:\\users\\\u044D\u043B\u0438\u043D\u0430\\downloads\\ruleconstructionkit\\ruleconstructionkit\\patterns\\facades\\roadmapservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5835EED4-63A3-4FFE-B5A9-873EB6A93CEA}|RuleConstructionKit.csproj|solutionrelative:patterns\\facades\\roadmapservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5835EED4-63A3-4FFE-B5A9-873EB6A93CEA}|RuleConstructionKit.csproj|c:\\users\\\u044D\u043B\u0438\u043D\u0430\\downloads\\ruleconstructionkit\\ruleconstructionkit\\data\\rulesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5835EED4-63A3-4FFE-B5A9-873EB6A93CEA}|RuleConstructionKit.csproj|solutionrelative:data\\rulesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5835EED4-63A3-4FFE-B5A9-873EB6A93CEA}|RuleConstructionKit.csproj|c:\\users\\\u044D\u043B\u0438\u043D\u0430\\downloads\\ruleconstructionkit\\ruleconstructionkit\\domain\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5835EED4-63A3-4FFE-B5A9-873EB6A93CEA}|RuleConstructionKit.csproj|solutionrelative:domain\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5835EED4-63A3-4FFE-B5A9-873EB6A93CEA}|RuleConstructionKit.csproj|c:\\users\\\u044D\u043B\u0438\u043D\u0430\\downloads\\ruleconstructionkit\\ruleconstructionkit\\domain\\organization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5835EED4-63A3-4FFE-B5A9-873EB6A93CEA}|RuleConstructionKit.csproj|solutionrelative:domain\\organization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5835EED4-63A3-4FFE-B5A9-873EB6A93CEA}|RuleConstructionKit.csproj|c:\\users\\\u044D\u043B\u0438\u043D\u0430\\downloads\\ruleconstructionkit\\ruleconstructionkit\\domain\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5835EED4-63A3-4FFE-B5A9-873EB6A93CEA}|RuleConstructionKit.csproj|solutionrelative:domain\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5835EED4-63A3-4FFE-B5A9-873EB6A93CEA}|RuleConstructionKit.csproj|c:\\users\\\u044D\u043B\u0438\u043D\u0430\\downloads\\ruleconstructionkit\\ruleconstructionkit\\domain\\profileproperty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5835EED4-63A3-4FFE-B5A9-873EB6A93CEA}|RuleConstructionKit.csproj|solutionrelative:domain\\profileproperty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5835EED4-63A3-4FFE-B5A9-873EB6A93CEA}|RuleConstructionKit.csproj|c:\\users\\\u044D\u043B\u0438\u043D\u0430\\downloads\\ruleconstructionkit\\ruleconstructionkit\\domain\\rule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5835EED4-63A3-4FFE-B5A9-873EB6A93CEA}|RuleConstructionKit.csproj|solutionrelative:domain\\rule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5835EED4-63A3-4FFE-B5A9-873EB6A93CEA}|RuleConstructionKit.csproj|c:\\users\\\u044D\u043B\u0438\u043D\u0430\\downloads\\ruleconstructionkit\\ruleconstructionkit\\domain\\roadmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5835EED4-63A3-4FFE-B5A9-873EB6A93CEA}|RuleConstructionKit.csproj|solutionrelative:domain\\roadmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5835EED4-63A3-4FFE-B5A9-873EB6A93CEA}|RuleConstructionKit.csproj|c:\\users\\\u044D\u043B\u0438\u043D\u0430\\downloads\\ruleconstructionkit\\ruleconstructionkit\\domain\\targetdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5835EED4-63A3-4FFE-B5A9-873EB6A93CEA}|RuleConstructionKit.csproj|solutionrelative:domain\\targetdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5835EED4-63A3-4FFE-B5A9-873EB6A93CEA}|RuleConstructionKit.csproj|c:\\users\\\u044D\u043B\u0438\u043D\u0430\\downloads\\ruleconstructionkit\\ruleconstructionkit\\patterns\\builders\\profilebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5835EED4-63A3-4FFE-B5A9-873EB6A93CEA}|RuleConstructionKit.csproj|solutionrelative:patterns\\builders\\profilebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5835EED4-63A3-4FFE-B5A9-873EB6A93CEA}|RuleConstructionKit.csproj|c:\\users\\\u044D\u043B\u0438\u043D\u0430\\downloads\\ruleconstructionkit\\ruleconstructionkit\\patterns\\builders\\roadmapbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5835EED4-63A3-4FFE-B5A9-873EB6A93CEA}|RuleConstructionKit.csproj|solutionrelative:patterns\\builders\\roadmapbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5835EED4-63A3-4FFE-B5A9-873EB6A93CEA}|RuleConstructionKit.csproj|c:\\users\\\u044D\u043B\u0438\u043D\u0430\\downloads\\ruleconstructionkit\\ruleconstructionkit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5835EED4-63A3-4FFE-B5A9-873EB6A93CEA}|RuleConstructionKit.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5835EED4-63A3-4FFE-B5A9-873EB6A93CEA}|RuleConstructionKit.csproj|c:\\users\\\u044D\u043B\u0438\u043D\u0430\\downloads\\ruleconstructionkit\\ruleconstructionkit\\patterns\\repositories\\roadmaprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5835EED4-63A3-4FFE-B5A9-873EB6A93CEA}|RuleConstructionKit.csproj|solutionrelative:patterns\\repositories\\roadmaprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Organization.cs",
+              "DocumentMoniker": "C:\\Users\\\u042D\u043B\u0438\u043D\u0430\\Downloads\\RuleConstructionKit\\RuleConstructionKit\\Domain\\Organization.cs",
+              "RelativeDocumentMoniker": "Domain\\Organization.cs",
+              "ToolTip": "C:\\Users\\\u042D\u043B\u0438\u043D\u0430\\Downloads\\RuleConstructionKit\\RuleConstructionKit\\Domain\\Organization.cs",
+              "RelativeToolTip": "Domain\\Organization.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T18:59:25.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\\u042D\u043B\u0438\u043D\u0430\\Downloads\\RuleConstructionKit\\RuleConstructionKit\\Domain\\Message.cs",
+              "RelativeDocumentMoniker": "Domain\\Message.cs",
+              "ToolTip": "C:\\Users\\\u042D\u043B\u0438\u043D\u0430\\Downloads\\RuleConstructionKit\\RuleConstructionKit\\Domain\\Message.cs",
+              "RelativeToolTip": "Domain\\Message.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T18:58:03.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RulesDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\\u042D\u043B\u0438\u043D\u0430\\Downloads\\RuleConstructionKit\\RuleConstructionKit\\Data\\RulesDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\RulesDbContext.cs",
+              "ToolTip": "C:\\Users\\\u042D\u043B\u0438\u043D\u0430\\Downloads\\RuleConstructionKit\\RuleConstructionKit\\Data\\RulesDbContext.cs",
+              "RelativeToolTip": "Data\\RulesDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T19:00:24.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RoadmapController.cs",
+              "DocumentMoniker": "C:\\Users\\\u042D\u043B\u0438\u043D\u0430\\Downloads\\RuleConstructionKit\\RuleConstructionKit\\Controllers\\RoadmapController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RoadmapController.cs",
+              "ToolTip": "C:\\Users\\\u042D\u043B\u0438\u043D\u0430\\Downloads\\RuleConstructionKit\\RuleConstructionKit\\Controllers\\RoadmapController.cs",
+              "RelativeToolTip": "Controllers\\RoadmapController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T15:54:52.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RoadmapService.cs",
+              "DocumentMoniker": "C:\\Users\\\u042D\u043B\u0438\u043D\u0430\\Downloads\\RuleConstructionKit\\RuleConstructionKit\\Patterns\\Facades\\RoadmapService.cs",
+              "RelativeDocumentMoniker": "Patterns\\Facades\\RoadmapService.cs",
+              "ToolTip": "C:\\Users\\\u042D\u043B\u0438\u043D\u0430\\Downloads\\RuleConstructionKit\\RuleConstructionKit\\Patterns\\Facades\\RoadmapService.cs",
+              "RelativeToolTip": "Patterns\\Facades\\RoadmapService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T15:54:21.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RuleBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\\u042D\u043B\u0438\u043D\u0430\\Downloads\\RuleConstructionKit\\RuleConstructionKit\\Patterns\\Builders\\RuleBuilder.cs",
+              "RelativeDocumentMoniker": "Patterns\\Builders\\RuleBuilder.cs",
+              "ToolTip": "C:\\Users\\\u042D\u043B\u0438\u043D\u0430\\Downloads\\RuleConstructionKit\\RuleConstructionKit\\Patterns\\Builders\\RuleBuilder.cs",
+              "RelativeToolTip": "Patterns\\Builders\\RuleBuilder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T15:55:07.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Profile.cs",
+              "DocumentMoniker": "C:\\Users\\\u042D\u043B\u0438\u043D\u0430\\Downloads\\RuleConstructionKit\\RuleConstructionKit\\Domain\\Profile.cs",
+              "RelativeDocumentMoniker": "Domain\\Profile.cs",
+              "ToolTip": "C:\\Users\\\u042D\u043B\u0438\u043D\u0430\\Downloads\\RuleConstructionKit\\RuleConstructionKit\\Domain\\Profile.cs",
+              "RelativeToolTip": "Domain\\Profile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T18:59:34.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProfileProperty.cs",
+              "DocumentMoniker": "C:\\Users\\\u042D\u043B\u0438\u043D\u0430\\Downloads\\RuleConstructionKit\\RuleConstructionKit\\Domain\\ProfileProperty.cs",
+              "RelativeDocumentMoniker": "Domain\\ProfileProperty.cs",
+              "ToolTip": "C:\\Users\\\u042D\u043B\u0438\u043D\u0430\\Downloads\\RuleConstructionKit\\RuleConstructionKit\\Domain\\ProfileProperty.cs",
+              "RelativeToolTip": "Domain\\ProfileProperty.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T18:51:05.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Rule.cs",
+              "DocumentMoniker": "C:\\Users\\\u042D\u043B\u0438\u043D\u0430\\Downloads\\RuleConstructionKit\\RuleConstructionKit\\Domain\\Rule.cs",
+              "RelativeDocumentMoniker": "Domain\\Rule.cs",
+              "ToolTip": "C:\\Users\\\u042D\u043B\u0438\u043D\u0430\\Downloads\\RuleConstructionKit\\RuleConstructionKit\\Domain\\Rule.cs",
+              "RelativeToolTip": "Domain\\Rule.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T18:58:23.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Roadmap.cs",
+              "DocumentMoniker": "C:\\Users\\\u042D\u043B\u0438\u043D\u0430\\Downloads\\RuleConstructionKit\\RuleConstructionKit\\Domain\\Roadmap.cs",
+              "RelativeDocumentMoniker": "Domain\\Roadmap.cs",
+              "ToolTip": "C:\\Users\\\u042D\u043B\u0438\u043D\u0430\\Downloads\\RuleConstructionKit\\RuleConstructionKit\\Domain\\Roadmap.cs",
+              "RelativeToolTip": "Domain\\Roadmap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T18:59:52.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TargetDocument.cs",
+              "DocumentMoniker": "C:\\Users\\\u042D\u043B\u0438\u043D\u0430\\Downloads\\RuleConstructionKit\\RuleConstructionKit\\Domain\\TargetDocument.cs",
+              "RelativeDocumentMoniker": "Domain\\TargetDocument.cs",
+              "ToolTip": "C:\\Users\\\u042D\u043B\u0438\u043D\u0430\\Downloads\\RuleConstructionKit\\RuleConstructionKit\\Domain\\TargetDocument.cs",
+              "RelativeToolTip": "Domain\\TargetDocument.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T19:00:09.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProfileBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\\u042D\u043B\u0438\u043D\u0430\\Downloads\\RuleConstructionKit\\RuleConstructionKit\\Patterns\\Builders\\ProfileBuilder.cs",
+              "RelativeDocumentMoniker": "Patterns\\Builders\\ProfileBuilder.cs",
+              "ToolTip": "C:\\Users\\\u042D\u043B\u0438\u043D\u0430\\Downloads\\RuleConstructionKit\\RuleConstructionKit\\Patterns\\Builders\\ProfileBuilder.cs",
+              "RelativeToolTip": "Patterns\\Builders\\ProfileBuilder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T19:00:42.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RoadmapBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\\u042D\u043B\u0438\u043D\u0430\\Downloads\\RuleConstructionKit\\RuleConstructionKit\\Patterns\\Builders\\RoadmapBuilder.cs",
+              "RelativeDocumentMoniker": "Patterns\\Builders\\RoadmapBuilder.cs",
+              "ToolTip": "C:\\Users\\\u042D\u043B\u0438\u043D\u0430\\Downloads\\RuleConstructionKit\\RuleConstructionKit\\Patterns\\Builders\\RoadmapBuilder.cs",
+              "RelativeToolTip": "Patterns\\Builders\\RoadmapBuilder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T15:55:08.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u042D\u043B\u0438\u043D\u0430\\Downloads\\RuleConstructionKit\\RuleConstructionKit\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\\u042D\u043B\u0438\u043D\u0430\\Downloads\\RuleConstructionKit\\RuleConstructionKit\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T16:00:24.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RoadmapRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u042D\u043B\u0438\u043D\u0430\\Downloads\\RuleConstructionKit\\RuleConstructionKit\\Patterns\\Repositories\\RoadmapRepository.cs",
+              "RelativeDocumentMoniker": "Patterns\\Repositories\\RoadmapRepository.cs",
+              "ToolTip": "C:\\Users\\\u042D\u043B\u0438\u043D\u0430\\Downloads\\RuleConstructionKit\\RuleConstructionKit\\Patterns\\Repositories\\RoadmapRepository.cs",
+              "RelativeToolTip": "Patterns\\Repositories\\RoadmapRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T15:59:41.532Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,273 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nadia\\Downloads\\RuleConstructionKit\\RuleConstructionKit\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nadia\\Downloads\\RuleConstructionKit\\RuleConstructionKit\\Controllers\\RoadmapController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\RoadmapController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nadia\\Downloads\\RuleConstructionKit\\RuleConstructionKit\\Domain\\Organization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Domain\\Organization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nadia\\Downloads\\RuleConstructionKit\\RuleConstructionKit\\Domain\\Message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Domain\\Message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nadia\\Downloads\\RuleConstructionKit\\RuleConstructionKit\\Data\\RulesDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\RulesDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nadia\\Downloads\\RuleConstructionKit\\RuleConstructionKit\\Patterns\\Facades\\RoadmapService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Patterns\\Facades\\RoadmapService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nadia\\Downloads\\RuleConstructionKit\\RuleConstructionKit\\Patterns\\Builders\\RuleBuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Patterns\\Builders\\RuleBuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nadia\\Downloads\\RuleConstructionKit\\RuleConstructionKit\\Domain\\Profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Domain\\Profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nadia\\Downloads\\RuleConstructionKit\\RuleConstructionKit\\Domain\\ProfileProperty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Domain\\ProfileProperty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nadia\\Downloads\\RuleConstructionKit\\RuleConstructionKit\\Domain\\Rule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Domain\\Rule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nadia\\Downloads\\RuleConstructionKit\\RuleConstructionKit\\Domain\\Roadmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Domain\\Roadmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nadia\\Downloads\\RuleConstructionKit\\RuleConstructionKit\\Domain\\TargetDocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Domain\\TargetDocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nadia\\Downloads\\RuleConstructionKit\\RuleConstructionKit\\Patterns\\Builders\\ProfileBuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Patterns\\Builders\\ProfileBuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nadia\\Downloads\\RuleConstructionKit\\RuleConstructionKit\\Patterns\\Builders\\RoadmapBuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Patterns\\Builders\\RoadmapBuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nadia\\Downloads\\RuleConstructionKit\\RuleConstructionKit\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nadia\\Downloads\\RuleConstructionKit\\RuleConstructionKit\\Patterns\\Repositories\\RoadmapRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Patterns\\Repositories\\RoadmapRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Organization.cs",
+              "DocumentMoniker": "C:\\Users\\Nadia\\Downloads\\RuleConstructionKit\\RuleConstructionKit\\Domain\\Organization.cs",
+              "RelativeDocumentMoniker": "Domain\\Organization.cs",
+              "ToolTip": "C:\\Users\\Nadia\\Downloads\\RuleConstructionKit\\RuleConstructionKit\\Domain\\Organization.cs",
+              "RelativeToolTip": "Domain\\Organization.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T18:59:25.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\Nadia\\Downloads\\RuleConstructionKit\\RuleConstructionKit\\Domain\\Message.cs",
+              "RelativeDocumentMoniker": "Domain\\Message.cs",
+              "ToolTip": "C:\\Users\\Nadia\\Downloads\\RuleConstructionKit\\RuleConstructionKit\\Domain\\Message.cs",
+              "RelativeToolTip": "Domain\\Message.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T18:58:03.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RulesDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Nadia\\Downloads\\RuleConstructionKit\\RuleConstructionKit\\Data\\RulesDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\RulesDbContext.cs",
+              "ToolTip": "C:\\Users\\Nadia\\Downloads\\RuleConstructionKit\\RuleConstructionKit\\Data\\RulesDbContext.cs",
+              "RelativeToolTip": "Data\\RulesDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T19:00:24.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RoadmapController.cs",
+              "DocumentMoniker": "C:\\Users\\Nadia\\Downloads\\RuleConstructionKit\\RuleConstructionKit\\Controllers\\RoadmapController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RoadmapController.cs",
+              "ToolTip": "C:\\Users\\Nadia\\Downloads\\RuleConstructionKit\\RuleConstructionKit\\Controllers\\RoadmapController.cs",
+              "RelativeToolTip": "Controllers\\RoadmapController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwCgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T15:54:52.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RoadmapService.cs",
+              "DocumentMoniker": "C:\\Users\\Nadia\\Downloads\\RuleConstructionKit\\RuleConstructionKit\\Patterns\\Facades\\RoadmapService.cs",
+              "RelativeDocumentMoniker": "Patterns\\Facades\\RoadmapService.cs",
+              "ToolTip": "C:\\Users\\Nadia\\Downloads\\RuleConstructionKit\\RuleConstructionKit\\Patterns\\Facades\\RoadmapService.cs",
+              "RelativeToolTip": "Patterns\\Facades\\RoadmapService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T15:54:21.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RuleBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\Nadia\\Downloads\\RuleConstructionKit\\RuleConstructionKit\\Patterns\\Builders\\RuleBuilder.cs",
+              "RelativeDocumentMoniker": "Patterns\\Builders\\RuleBuilder.cs",
+              "ToolTip": "C:\\Users\\Nadia\\Downloads\\RuleConstructionKit\\RuleConstructionKit\\Patterns\\Builders\\RuleBuilder.cs",
+              "RelativeToolTip": "Patterns\\Builders\\RuleBuilder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T15:55:07.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Profile.cs",
+              "DocumentMoniker": "C:\\Users\\Nadia\\Downloads\\RuleConstructionKit\\RuleConstructionKit\\Domain\\Profile.cs",
+              "RelativeDocumentMoniker": "Domain\\Profile.cs",
+              "ToolTip": "C:\\Users\\Nadia\\Downloads\\RuleConstructionKit\\RuleConstructionKit\\Domain\\Profile.cs",
+              "RelativeToolTip": "Domain\\Profile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T18:59:34.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProfileProperty.cs",
+              "DocumentMoniker": "C:\\Users\\Nadia\\Downloads\\RuleConstructionKit\\RuleConstructionKit\\Domain\\ProfileProperty.cs",
+              "RelativeDocumentMoniker": "Domain\\ProfileProperty.cs",
+              "ToolTip": "C:\\Users\\Nadia\\Downloads\\RuleConstructionKit\\RuleConstructionKit\\Domain\\ProfileProperty.cs",
+              "RelativeToolTip": "Domain\\ProfileProperty.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T18:51:05.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Rule.cs",
+              "DocumentMoniker": "C:\\Users\\Nadia\\Downloads\\RuleConstructionKit\\RuleConstructionKit\\Domain\\Rule.cs",
+              "RelativeDocumentMoniker": "Domain\\Rule.cs",
+              "ToolTip": "C:\\Users\\Nadia\\Downloads\\RuleConstructionKit\\RuleConstructionKit\\Domain\\Rule.cs",
+              "RelativeToolTip": "Domain\\Rule.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T18:58:23.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Roadmap.cs",
+              "DocumentMoniker": "C:\\Users\\Nadia\\Downloads\\RuleConstructionKit\\RuleConstructionKit\\Domain\\Roadmap.cs",
+              "RelativeDocumentMoniker": "Domain\\Roadmap.cs",
+              "ToolTip": "C:\\Users\\Nadia\\Downloads\\RuleConstructionKit\\RuleConstructionKit\\Domain\\Roadmap.cs",
+              "RelativeToolTip": "Domain\\Roadmap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T18:59:52.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TargetDocument.cs",
+              "DocumentMoniker": "C:\\Users\\Nadia\\Downloads\\RuleConstructionKit\\RuleConstructionKit\\Domain\\TargetDocument.cs",
+              "RelativeDocumentMoniker": "Domain\\TargetDocument.cs",
+              "ToolTip": "C:\\Users\\Nadia\\Downloads\\RuleConstructionKit\\RuleConstructionKit\\Domain\\TargetDocument.cs",
+              "RelativeToolTip": "Domain\\TargetDocument.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T19:00:09.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProfileBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\Nadia\\Downloads\\RuleConstructionKit\\RuleConstructionKit\\Patterns\\Builders\\ProfileBuilder.cs",
+              "RelativeDocumentMoniker": "Patterns\\Builders\\ProfileBuilder.cs",
+              "ToolTip": "C:\\Users\\Nadia\\Downloads\\RuleConstructionKit\\RuleConstructionKit\\Patterns\\Builders\\ProfileBuilder.cs",
+              "RelativeToolTip": "Patterns\\Builders\\ProfileBuilder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T19:00:42.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RoadmapBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\Nadia\\Downloads\\RuleConstructionKit\\RuleConstructionKit\\Patterns\\Builders\\RoadmapBuilder.cs",
+              "RelativeDocumentMoniker": "Patterns\\Builders\\RoadmapBuilder.cs",
+              "ToolTip": "C:\\Users\\Nadia\\Downloads\\RuleConstructionKit\\RuleConstructionKit\\Patterns\\Builders\\RoadmapBuilder.cs",
+              "RelativeToolTip": "Patterns\\Builders\\RoadmapBuilder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T15:55:08.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nadia\\Downloads\\RuleConstructionKit\\RuleConstructionKit\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Nadia\\Downloads\\RuleConstructionKit\\RuleConstructionKit\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T16:00:24.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RoadmapRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Nadia\\Downloads\\RuleConstructionKit\\RuleConstructionKit\\Patterns\\Repositories\\RoadmapRepository.cs",
+              "RelativeDocumentMoniker": "Patterns\\Repositories\\RoadmapRepository.cs",
+              "ToolTip": "C:\\Users\\Nadia\\Downloads\\RuleConstructionKit\\RuleConstructionKit\\Patterns\\Repositories\\RoadmapRepository.cs",
+              "RelativeToolTip": "Patterns\\Repositories\\RoadmapRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T15:59:41.532Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

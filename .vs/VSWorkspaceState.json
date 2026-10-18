@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Controllers",
+    "\\Data",
+    "\\Domain",
+    "\\Patterns",
+    "\\Patterns\\Builders",
+    "\\Patterns\\Facades",
+    "\\Patterns\\Repositories"
+  ],
+  "SelectedNode": "\\Controllers\\RoadmapController.cs",
+  "PreviewInSolutionExplorer": false
+}
